@@ -1,1 +1,2 @@
-# cors
+# Cors
+Cross-Origin Resource Sharing
